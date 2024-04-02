@@ -1,0 +1,27 @@
+table,th,td {
+    border:2px solid black;
+    border-collapse: collapse;
+    padding: 6px 8px;
+    text-align: center;
+    font-size: 18px;
+}
+
+.thyear {
+    padding-left: 14px;
+    padding-right: 14px;
+}
+ h4 {
+    text-align:center;
+    border:none;
+    background-color: rgb(184, 174, 174);
+    padding: 7px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+ }
+ h3 {
+    font-weight: normal;
+ }
+
+ body {
+font-family: 'Times New Roman', Times, serif;
+padding: 0px 10px;
+ }
